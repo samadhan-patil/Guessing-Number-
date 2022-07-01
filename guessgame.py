@@ -4,7 +4,7 @@ import random
 MIN_LIMIT = 1
 MAX_LIMIT = 100
 actual_number =random.randint(MIN_LIMIT,MAX_LIMIT)
-attempts =15
+attempts =5
 
 print("This is an amazing guessing number game.")
 print("In which you have 5 attempts to guess the correct number between 1 to 100.")
